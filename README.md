@@ -57,7 +57,7 @@ to begin using this app, please clone this repository into your local storage. O
     		SOFTWARE.
 
 
-## Files Explained
+## Files_Explained
 
 --PASSWORD AUTHENTICATION--
 
